@@ -237,7 +237,9 @@ td{border-width:0 1px;}
 --------------------------------------------------------------------------------------------------------------- */
 body{color:#CBCBCB; background-color:#191919; font-family: "Helvetica"}
 a{color:#CF4845;}
-a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
+a:active, a:focus{background:transparent;}/* 
+IE10 + 11 Bugfix - prevents grey background */
+p{margin:0 13% 13% 15%; font-family: "Helvetica"}
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 input:focus, textarea:focus, *:required:focus{border-color:#CF4845;}
